@@ -1,0 +1,26 @@
+.products-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin-top: 40px;
+}
+
+.product-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 45px;
+}
+
+.product-summary {
+    background: rgba(255, 153, 0, 0.3);
+}
+
+.product-summary-title {
+    margin-top: 26px;
+    text-align: center;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #1C2B35;
+}
