@@ -48,13 +48,13 @@
 
 .btn-cart {
     width: 100%;
+    text-align: center;
     padding-top: 14px;
-    padding-right: 97px;
     padding-bottom: 16px;
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 18px;
     letter-spacing: 0.0125em;
     color: #0E161A;
