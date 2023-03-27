@@ -1,0 +1,51 @@
+.product-summary {
+    background: rgba(255, 153, 0, 0.3);
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
+
+.product-summary-title {
+    margin-bottom: 30px;
+    margin-left: 47px;
+    padding-top: 25px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #1C2B35;
+}
+
+.product-summary-details {
+    margin-left: 23px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #2A414F;
+}
+
+.product-summary-details p {
+    margin-bottom: 15px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #2A414F;
+}
+
+.grand-total {
+    padding-bottom: 50px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+}
