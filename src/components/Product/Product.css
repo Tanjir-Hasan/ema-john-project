@@ -67,4 +67,5 @@
 
 .btn-cart:hover{
     background: #f2bd6d;
+    cursor: pointer;
 }
