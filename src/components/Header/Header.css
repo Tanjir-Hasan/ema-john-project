@@ -24,3 +24,18 @@ a {
 a:hover {
     color: orange;
 }
+
+.profile {
+    color: white;
+}
+
+.btn-signout {
+    margin-left: 5px;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.btn-signout:hover {
+    color: white;
+    background-color: orange;
+}

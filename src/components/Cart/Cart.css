@@ -49,3 +49,20 @@
     letter-spacing: 0.0015em;
     color: #0E161A;
 }
+
+.btn-clear {
+    width: 90%;
+    /* margin: 10px auto; */
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 10px;
+    border: none;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #FFFFFF;
+    background: #FF3030;
+    border-radius: 4px;
+}
