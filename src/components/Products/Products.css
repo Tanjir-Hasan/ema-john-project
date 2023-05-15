@@ -18,3 +18,18 @@
     padding: 50px;
 }
 
+.pagination-btn {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.pagination-btn:hover {
+    background-color: rgb(225, 186, 138);
+    border-radius: 15px;
+    border-color: none;
+}
+
+.pagination {
+    text-align: center;
+    margin-bottom: 50px;
+}
